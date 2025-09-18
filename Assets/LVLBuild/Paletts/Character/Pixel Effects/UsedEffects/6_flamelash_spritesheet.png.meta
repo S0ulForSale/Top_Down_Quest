@@ -1,0 +1,1197 @@
+fileFormatVersion: 2
+guid: 8c83cab9c2c715f4eb1525689eacbb55
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 640
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6439765400564bb488085227434e0022
+      internalID: 1928604818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 634
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0619a25db7c52a64fa88dd47b0ad126c
+      internalID: -1417499845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 630
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403a57ad0ab5e14449ad5ad5f91bc72f
+      internalID: 1071098959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 627
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfaec9bab797e09408a438f41b534e4c
+      internalID: -1005489341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 626
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f52d45744e29214ea44a107613b488a
+      internalID: 1010746554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 626
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6919bd0ba7c067740a700c9921ec065f
+      internalID: -1312463946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 526
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c86d3bd5c20fa14c81014904b486bd3
+      internalID: -1264038179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 526
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d2d70877c502c43b3eb7cc929d5c0c
+      internalID: 948178183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 526
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166c711cefab1a2459faa0a03e14148b
+      internalID: -1518672871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 526
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9591321e819820469f0612025b4062d
+      internalID: -1980576469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 526
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456f917cbc59a314aa73f7425688e9d6
+      internalID: 699838384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 526
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e28aa66486566b49a19c4cc15b7be39
+      internalID: 153105630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 526
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2966167864d88fb48914f53e6c6c10aa
+      internalID: -1628566382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 426
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31db73d42177fcd44a0b1a27d84d543a
+      internalID: -84912052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 425
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcc388020ece8442a560bcf1cd84f91
+      internalID: -1691253418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 425
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a95d8fec929e04aa676b779b22f7ae
+      internalID: -2057720910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 425
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67c4d393f963aa4f884dc8e099126c1
+      internalID: 1550355209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 425
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b0d628729bf8c44b310390d09557e1
+      internalID: 40622734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 425
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054c62dcfd53f2e458e5c0b177e6c07b
+      internalID: -1950263879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 424
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db0cfa6e3d5d134892ddec110195da0
+      internalID: -1528041774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 324
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c793bfe2459442e4693c14f147e03cd1
+      internalID: -828372574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 324
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ce7cf2ccfdcfe44b87f9c342dea5ca
+      internalID: -1081903546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 324
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e693bdea5483a745bfa51e79723ad54
+      internalID: -756520953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 324
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cd857702c8e754a9ba326745a09844
+      internalID: 206788741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 324
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98557b26e94cb0844854c0bb77d23e58
+      internalID: 523072792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 323
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d3a31527d1e684ebd27bc7a5849819
+      internalID: -471231343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 223
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fc5dff9257b7043b3e8605533d8407
+      internalID: -476969881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 231
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e4e4eddbd5a5f49a435b5648cb8d7a
+      internalID: 2096587931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 223
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6187d4e70026724d8f4878a10faf458
+      internalID: -1129390592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 223
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df30bed01f0cf14d9618c2f5d333ef9
+      internalID: 1455733489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 223
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d501db7d032525542a5aeffd1ef83dde
+      internalID: 1096195850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 231
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585c36066142e3945a62be32bc66175c
+      internalID: 1746028861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 231
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdccdaca0fd56a847b2108e8d3d4f550
+      internalID: 1301626125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 132
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a481d7880fdcda6409d62c5a426b680b
+      internalID: 1143701366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 132
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e12510f70ec274dbb88edfb478757d
+      internalID: -1069450515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 132
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa8c5c8a3dfb9b43a581fb7265ebbb5
+      internalID: -230946215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 132
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf826f126a946564e8452f76a8247d39
+      internalID: -202004155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 133
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10165300c5857d84fbbc6a6d3c5ce81a
+      internalID: 1154577913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 133
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3744dce022eeb94c88a29dead14eb1e
+      internalID: -885863835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 132
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb13f1af984cc24399592ad5ef227d1
+      internalID: -1367624051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a953289d0e4f84a97a8b3fd495f1b2
+      internalID: -2053353378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 34
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3c2bbd021456b46bb5f5a39a40dada
+      internalID: -99100090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 34
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faf51995bbeb3f41ad23373fe2d9bb6
+      internalID: 127134298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 35
+        width: 12
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58aec5a05643ef346af0c1c5aeaa100a
+      internalID: -553980384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_flamelash_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 324
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13a3286a2585c44c9cdb766b2a1d6d0
+      internalID: -1391180405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      6_flamelash_spritesheet_0: 1928604818
+      6_flamelash_spritesheet_1: -1417499845
+      6_flamelash_spritesheet_10: 699838384
+      6_flamelash_spritesheet_100: -1482989064
+      6_flamelash_spritesheet_101: 165979890
+      6_flamelash_spritesheet_102: -1896363266
+      6_flamelash_spritesheet_103: -2102968960
+      6_flamelash_spritesheet_104: -1560247208
+      6_flamelash_spritesheet_105: -100855418
+      6_flamelash_spritesheet_106: -99100090
+      6_flamelash_spritesheet_107: 127134298
+      6_flamelash_spritesheet_108: 1143701366
+      6_flamelash_spritesheet_109: -553980384
+      6_flamelash_spritesheet_11: 153105630
+      6_flamelash_spritesheet_110: -2104485936
+      6_flamelash_spritesheet_111: -1069450515
+      6_flamelash_spritesheet_112: -629804271
+      6_flamelash_spritesheet_113: -1018757024
+      6_flamelash_spritesheet_114: -230946215
+      6_flamelash_spritesheet_115: 413384395
+      6_flamelash_spritesheet_116: -202004155
+      6_flamelash_spritesheet_117: -1502552888
+      6_flamelash_spritesheet_118: 1154577913
+      6_flamelash_spritesheet_119: -1248758934
+      6_flamelash_spritesheet_12: -1628566382
+      6_flamelash_spritesheet_120: 2017550901
+      6_flamelash_spritesheet_121: 1865792872
+      6_flamelash_spritesheet_122: 1111690224
+      6_flamelash_spritesheet_123: -163811225
+      6_flamelash_spritesheet_124: 289435918
+      6_flamelash_spritesheet_125: -933140741
+      6_flamelash_spritesheet_126: -885863835
+      6_flamelash_spritesheet_127: -1367624051
+      6_flamelash_spritesheet_128: -2053353378
+      6_flamelash_spritesheet_13: 1044637392
+      6_flamelash_spritesheet_14: -84912052
+      6_flamelash_spritesheet_15: -875294407
+      6_flamelash_spritesheet_16: -650784931
+      6_flamelash_spritesheet_17: -1691253418
+      6_flamelash_spritesheet_18: -709512129
+      6_flamelash_spritesheet_19: -2057720910
+      6_flamelash_spritesheet_2: 1071098959
+      6_flamelash_spritesheet_20: 1550355209
+      6_flamelash_spritesheet_21: 40622734
+      6_flamelash_spritesheet_22: -1950263879
+      6_flamelash_spritesheet_23: -1768587868
+      6_flamelash_spritesheet_24: -454777682
+      6_flamelash_spritesheet_25: -1528041774
+      6_flamelash_spritesheet_26: 2141537094
+      6_flamelash_spritesheet_27: 207702804
+      6_flamelash_spritesheet_28: 420660027
+      6_flamelash_spritesheet_29: -1545588107
+      6_flamelash_spritesheet_3: -1005489341
+      6_flamelash_spritesheet_30: -1580504003
+      6_flamelash_spritesheet_31: 629137563
+      6_flamelash_spritesheet_32: -828372574
+      6_flamelash_spritesheet_33: -1081903546
+      6_flamelash_spritesheet_34: -756520953
+      6_flamelash_spritesheet_35: -1391180405
+      6_flamelash_spritesheet_36: 206788741
+      6_flamelash_spritesheet_37: -475491823
+      6_flamelash_spritesheet_38: 523072792
+      6_flamelash_spritesheet_39: 1321388076
+      6_flamelash_spritesheet_4: 1010746554
+      6_flamelash_spritesheet_40: -471231343
+      6_flamelash_spritesheet_41: 1760460090
+      6_flamelash_spritesheet_42: 2069790952
+      6_flamelash_spritesheet_43: -578685455
+      6_flamelash_spritesheet_44: -1237618798
+      6_flamelash_spritesheet_45: 1289118392
+      6_flamelash_spritesheet_46: -1713007293
+      6_flamelash_spritesheet_47: -1093260040
+      6_flamelash_spritesheet_48: 1869584280
+      6_flamelash_spritesheet_49: 1599734854
+      6_flamelash_spritesheet_5: -1312463946
+      6_flamelash_spritesheet_50: 1035605175
+      6_flamelash_spritesheet_51: -1725711990
+      6_flamelash_spritesheet_52: -425849531
+      6_flamelash_spritesheet_53: 1351039518
+      6_flamelash_spritesheet_54: -504125042
+      6_flamelash_spritesheet_55: 166270101
+      6_flamelash_spritesheet_56: -851994637
+      6_flamelash_spritesheet_57: 1218462456
+      6_flamelash_spritesheet_58: 1938102195
+      6_flamelash_spritesheet_59: 383842310
+      6_flamelash_spritesheet_6: -1264038179
+      6_flamelash_spritesheet_60: 1841497492
+      6_flamelash_spritesheet_61: -9490397
+      6_flamelash_spritesheet_62: 1634146822
+      6_flamelash_spritesheet_63: 998917310
+      6_flamelash_spritesheet_64: 42193271
+      6_flamelash_spritesheet_65: 723404931
+      6_flamelash_spritesheet_66: -861382180
+      6_flamelash_spritesheet_67: 292068
+      6_flamelash_spritesheet_68: 1866845027
+      6_flamelash_spritesheet_69: -1215754346
+      6_flamelash_spritesheet_7: 948178183
+      6_flamelash_spritesheet_70: -476969881
+      6_flamelash_spritesheet_71: -857694147
+      6_flamelash_spritesheet_72: 201769952
+      6_flamelash_spritesheet_73: 73092321
+      6_flamelash_spritesheet_74: 1223199229
+      6_flamelash_spritesheet_75: -798891092
+      6_flamelash_spritesheet_76: -352478881
+      6_flamelash_spritesheet_77: 1838901919
+      6_flamelash_spritesheet_78: 2096587931
+      6_flamelash_spritesheet_79: -1129390592
+      6_flamelash_spritesheet_8: -1518672871
+      6_flamelash_spritesheet_80: 1455733489
+      6_flamelash_spritesheet_81: -1874195767
+      6_flamelash_spritesheet_82: -765817060
+      6_flamelash_spritesheet_83: 1994246600
+      6_flamelash_spritesheet_84: 730926765
+      6_flamelash_spritesheet_85: -829565326
+      6_flamelash_spritesheet_86: 1438872680
+      6_flamelash_spritesheet_87: -493034024
+      6_flamelash_spritesheet_88: 872949701
+      6_flamelash_spritesheet_89: 657582881
+      6_flamelash_spritesheet_9: -1980576469
+      6_flamelash_spritesheet_90: 1096195850
+      6_flamelash_spritesheet_91: -2125756158
+      6_flamelash_spritesheet_92: 1746028861
+      6_flamelash_spritesheet_93: 758393000
+      6_flamelash_spritesheet_94: 1301626125
+      6_flamelash_spritesheet_95: 1273412038
+      6_flamelash_spritesheet_96: 1518235019
+      6_flamelash_spritesheet_97: -80615319
+      6_flamelash_spritesheet_98: 2117768374
+      6_flamelash_spritesheet_99: 2072238918
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
